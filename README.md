@@ -1,7 +1,7 @@
 # TechVault — Static Product List in React
 
 A React-based product landing page that renders a static list of products using reusable components, array mapping, and CSS styling. Built with Vite for fast development.
-
+https://youtu.be/_tNfHWiBYRk
 ## App Overview
 
 TechVault is a single-page storefront that displays a curated list of tech products. Users can browse items and click "Add to Cart" to increment a cart counter in the navbar. The app is fully responsive and supports light/dark mode.
